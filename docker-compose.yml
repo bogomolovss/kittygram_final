@@ -33,6 +33,6 @@ services:
     build: ./nginx/
     volumes:
       - static:/staticfiles
-      - media:/mediafiles
+      - media:/mediafiles 
     ports:
       - 9000:80
