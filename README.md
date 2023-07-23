@@ -97,6 +97,3 @@ sudo docker compose -f docker-compose.production.yml exec backend cp -r /app/col
   }
 ]
 ```
-
-# Kittygram
-https://bogomolovss.ru
